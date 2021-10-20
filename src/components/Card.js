@@ -1,6 +1,7 @@
 import React from 'react';
 import './Card.scss';
 
+
 export const Card = (props) => {
   const { title, img, description } = props;
   return (
